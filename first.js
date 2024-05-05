@@ -4,5 +4,7 @@ let second = "second world";
 //mai acha ho
 let third = "third world";
 
-//hello
+//hello kaise ho
 //hey
+
+var add = 12;
